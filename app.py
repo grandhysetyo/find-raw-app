@@ -10,7 +10,7 @@ import json
 import time
 from pathlib import Path
 
-# Google OAuth
+# Google OAuth LIB
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.oauth2 import id_token
 from google.auth.transport import requests
